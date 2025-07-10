@@ -2,9 +2,7 @@
 
 A decentralized task manager built with Solidity, React, and MetaMask. Tasks are stored on-chain using Ethereum testnet.
 
-<img src="./public/images/1.png" height="380">
-<img src="./public/images/2.png" height="380">
-<img src="./public/images/3.png" height="380">
+<img src="./public/images/1.png" height="380"> <img src="./public/images/2.png" height="380"> <img src="./public/images/3.png" height="380">
 
 ## 🔧 Features
 
